@@ -1,7 +1,9 @@
 # Hi I'm Perla Rodriguez 👋
 I'm a microbiologist working to become a data analyst 
 
-🔭 I’m currently working on reviews of my favorites science books and working in design my portfolio of codes in GitHub 
+🔭 I’m currently working on reviews of my favorites science books and in design my portfolio of codes in GitHub 
+
+
 ![Img. del código ejecutado](https://github.com/PerlaGRG22/PerlaGRG22/blob/main/Banner.png)
 
 <!--

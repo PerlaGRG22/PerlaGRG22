@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi I'm Perla Rodriguez 👋
+I'm a microbiologist working to become a data analyst 
 
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/PerlaGRG22/PerlaGRG22/blob/main/Banner.png" alt=”my banner”>
+
+</p>
 <!--
 **PerlaGRG22/PerlaGRG22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

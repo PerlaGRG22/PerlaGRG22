@@ -1,5 +1,5 @@
 # Hi I'm Perla Rodriguez 👋
-I'm a microbiologist working to become a data analyst 
+I'm a microbiologist working to become a computer scientist 
 
 🔭 I’m currently working on reviews of my favorites science books and in design my portfolio of codes in GitHub 
 
